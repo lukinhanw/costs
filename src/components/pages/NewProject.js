@@ -7,6 +7,7 @@ import Button from '../form/Button'
 
 function NewProject() {
     const [categories, setCategories] = useState([])
+    
 
     useEffect(() => {
         fetch("http://localhost:5000/categories", {
