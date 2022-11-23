@@ -1,21 +1,298 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "name": "Lucas",
+      "budget": "123",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Lucas",
+      "budget": "123",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Lucas",
+      "budget": "123",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Lucas",
+      "budget": "123",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Lucas",
+      "budget": "123",
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "asdasd",
+      "budget": "123123",
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "sdfsdf",
+      "budget": "234234",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "gsdgdfg",
+      "budget": "2234",
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "gsdgdfg",
+      "budget": "2234",
+      "cost": 0,
+      "services": [],
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "id": 9
+    },
+    {
+      "name": "gsdgdfg",
+      "budget": "2234",
+      "cost": 0,
+      "services": [],
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "id": 10
+    },
+    {
+      "name": "555",
+      "budget": "344",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 11
+    },
+    {
+      "name": "asdasd",
+      "budget": "32434",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 12
+    },
+    {
+      "name": "asdasd",
+      "budget": "32434",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 13
+    },
+    {
+      "name": "asdasd",
+      "budget": "32434",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 14
+    },
+    {
+      "name": "553",
+      "budget": "234234",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 15
+    },
+    {
+      "name": "553",
+      "budget": "234234",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 16
+    },
+    {
+      "name": "553",
+      "budget": "234234",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 17
+    },
+    {
+      "name": "111",
+      "budget": "111",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 18
+    },
+    {
+      "name": "111",
+      "budget": "111",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 19
+    },
+    {
+      "name": "111",
+      "budget": "111",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 20
+    },
+    {
+      "name": "111",
+      "budget": "111",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 21
+    },
+    {
+      "name": "453453",
+      "budget": "3453",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 22
+    },
+    {
+      "name": "555",
+      "budget": "555",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 23
+    },
+    {
+      "name": "234234",
+      "budget": "234234",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 24
+    },
+    {
+      "name": "234234",
+      "budget": "234234",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 25
+    },
+    {
+      "name": "234234",
+      "budget": "234234",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 26
+    },
+    {
+      "name": "luketa",
+      "budget": "6000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 27
+    },
+    {
+      "name": "Lkn",
+      "budget": "111",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 28
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
